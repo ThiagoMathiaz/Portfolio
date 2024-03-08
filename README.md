@@ -23,4 +23,10 @@ Bounties I earned:
 
 ## ⚔ public contests
 
-⚙ building...
+### Code4rena: [@matue](https://code4rena.com/@Matue)
+
+#### Contest: [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top) (1M)
+
+#### Contest: [Decent](https://code4rena.com/audits/2024-01-decent#top) (1H 1M)
+
+#### Contest: [Curves](https://code4rena.com/audits/2024-01-curves#top) (2H 1M)
