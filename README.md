@@ -25,6 +25,8 @@ Bounties I earned:
 
 ### Code4rena: [@matue](https://code4rena.com/@Matue)
 
+#### Contest: [AI Arena](https://code4rena.com/audits/2024-02-ai-arena#top) (2M)
+
 #### Contest: [Salty.io](https://code4rena.com/audits/2024-01-saltyio#top) (1M)
 
 #### Contest: [Decent](https://code4rena.com/audits/2024-01-decent#top) (1H 1M)
