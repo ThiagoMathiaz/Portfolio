@@ -32,3 +32,7 @@ Bounties I earned:
 #### Contest: [Decent](https://code4rena.com/audits/2024-01-decent#top) (1H 1M)
 
 #### Contest: [Curves](https://code4rena.com/audits/2024-01-curves#top) (2H 1M)
+
+### Cantina [@mathiaz](https://cantina.xyz/u/mathiaz)
+
+#### Contest: [Goat Tech](https://cantina.xyz/competitions/f214cf86-cc80-40c0-a70b-e9bb25d7ac80) (1H)
