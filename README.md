@@ -5,6 +5,7 @@ What i like to audit:
 - NEAR (Rust)
 - Substrate (Rust)
 - CosmWasm (Rust)
+- Solana (Rust)
 - EVM (Solidity)
 
 ## 📚 articles
