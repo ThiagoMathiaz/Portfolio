@@ -8,6 +8,15 @@ What i like to audit:
 - Solana (Rust)
 - EVM (Solidity)
 
+## 🏆 ctf
+Capture the Flag results:
+
+### Blockchain Security Village — DEF CON
+
+#### 🥉 3rd place — DEF CON 34 (2026)
+
+#### 🥇 1st place — DEF CON 33 (2025)
+
 ## 📚 articles
 Articles I published on Medium:
 
