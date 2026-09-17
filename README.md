@@ -17,6 +17,10 @@ Capture the Flag results:
 
 #### 🥇 1st place — DEF CON 33 (2025)
 
+### BuidlGuidl — Devconnect
+
+#### 4th place — Devconnect Argentina (2025)
+
 ## 📚 articles
 Articles I published on Medium:
 
